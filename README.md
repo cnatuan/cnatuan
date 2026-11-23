@@ -1,19 +1,24 @@
-### Hi there, I'm Anh Tuấn (cnaTuan) 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Cao+Nguyen+Anh+Tuan!;IT+Student+%40+HUMG+University;Learning+Python%2C+C%2B%2B+%26+Software+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-🎓 **1st-year Information Technology Student** at Hanoi University of Mining and Geology (HUMG)  
-💻 **Currently learning:** Python, C/C++, Web Development & Git  
-🌱 **Goal:** Building solid programming foundations and practical software projects  
-📫 **Reach me at:** `tkt20k08@gmail.com`
-
----
-
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="mailto:tkt20k08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cnatuan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![cnaTuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnaTuan&show_icons=true&theme=tokyonight&hide_border=true)
+### 👨‍💻 About Me
+```yaml
+name: Cao Nguyễn Anh Tuấn
+alias: cnatuan / Tuấn ST
+education: Hanoi University of Mining and Geology (HUMG)
+major: Information Technology (CNTT)
+current_focus:
+  - Programming Fundamentals (C/C++, Python)
+  - Data Structures & Algorithms
+  - Git & GitHub Workflow
+email: tkt20k08@gmail.com
