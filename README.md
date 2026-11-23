@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Anh Tuấn (cnaTuan) 👋
 
-<!--
-**cnatuan/cnatuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **1st-year Information Technology Student** at Hanoi University of Mining and Geology (HUMG)  
+💻 **Currently learning:** Python, C/C++, Web Development & Git  
+🌱 **Goal:** Building solid programming foundations and practical software projects  
+📫 **Reach me at:** `tkt20k08@gmail.com`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![cnaTuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnaTuan&show_icons=true&theme=tokyonight&hide_border=true)
