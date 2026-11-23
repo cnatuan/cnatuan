@@ -1,24 +1,28 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Cao+Nguyen+Anh+Tuan!;IT+Student+%40+HUMG+University;Learning+Python%2C+C%2B%2B+%26+Software+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
+## 👋 Hi, I'm Anh Tuấn (`@cnatuan`)
 
-<p align="center">
-  <a href="mailto:tkt20k08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=cnatuan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+I'm a first-year **Information Technology** student at **Hanoi University of Mining and Geology (HUMG)**. I'm passionate about building clean, efficient software and continuously sharpening my problem-solving skills.
+
+- 🔭 **Currently learning:** Python, C/C++, and Web Technologies
+- 🌱 **Focus areas:** Algorithms, Software Engineering, and Open Source
+- 📫 **Contact:** `tkt20k08@gmail.com`
+
+---
+
+### 🧰 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,windows" alt="Tech Stack" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-```yaml
-name: Cao Nguyễn Anh Tuấn
-alias: cnatuan / Tuấn ST
-education: Hanoi University of Mining and Geology (HUMG)
-major: Information Technology (CNTT)
-current_focus:
-  - Programming Fundamentals (C/C++, Python)
-  - Data Structures & Algorithms
-  - Git & GitHub Workflow
-email: tkt20k08@gmail.com
+### 📈 Coding Activity
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cnatuan&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnatuan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
